@@ -1,0 +1,10 @@
+_minted*
+*~
+*.tex
+*.html
+*.pdf
+missfont.log
+*#
+.DS_Store
+*.odt
+*.gdoc

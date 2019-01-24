@@ -1,0 +1,33 @@
+#+TITLE: Yvain
+#+OPTIONS: toc:nil date:nil num:nil author:nil
+#+STARTUP: noindent showall
+#+SUBTITLE: HLI114 -- Western Literature II: Middle Ages to Present
+#+LaTeX_HEADER: \usepackage[margin=1.0in]{geometry}
+#+LaTeX_HEADER: \renewcommand\labelitemi{-}
+#+LaTeX_HEADER: \setlength{\parindent}{0pt}
+
+*/TEXT/*: 978-0-300-038385; /Yvain: The Knight of the Lion/, Chretien de Troyes, Tr. Burton Raffel
+
+* King Arthur of Brittany
+#+ATTR_LATEX: :width 250
+[[./king-leaves-quote.png]]
+
+Not the typical representation of King Arthur, who is typically a father figure or man commanding high respect to his knights. The king has sex with his wife, and then sleeps.\\
+
+*THEME*: A noble woman should be able to tell a story; *self-reflexive text*.\\
+
+By line 5920, he is back to being the wise, just King Arthur.\\
+
+* Characters
+** Kay
+#+ATTR_LATEX: :width 200
+[[./kay-quote.png]]
+Kay's story:
+
+- Seven years ago, he was a /lonely/ peasant. Strange to describe a peasant as lonely, but what he meant was that he did not have the company of the other knights of the round table.
+- He was equipped as a knight, looking for work. Comes to a path in a deserted forest, and follows the road despite their being many obstacles along the way. Only the best and the bravest can get through.
+- He sees a tower a short way ahead of him.
+- Before the tower, there is a moat. He sees a man with a hunting hawk outside the tower, and is offered shelter by the owner of the castle.
+  - Lots of discussion of birds in the tales; falcons, hunting birds. The lords practice falconry as a way of conveying their power and wealth. Part of the decor of the book, as part of the culture of the tale.
+- After the man invites Kay in, he sees a beautiful woman. She helps him out of his armor, and gives him a cloak. /imagery: clothing/ (/p.9, ln.230/).
+- In return for his hospitality, the owner of the castle asks him to return, presumably because he wants to marry off his daughter to Kay.
