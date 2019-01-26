@@ -18,16 +18,32 @@ Not the typical representation of King Arthur, who is typically a father figure 
 
 By line 5920, he is back to being the wise, just King Arthur.\\
 
-* Characters
-** Kay
+* Kay
 #+ATTR_LATEX: :width 200
 [[./kay-quote.png]]
-Kay's story:
-
+* Calegrenant
+** Calegrenant's story:
 - Seven years ago, he was a /lonely/ peasant. Strange to describe a peasant as lonely, but what he meant was that he did not have the company of the other knights of the round table.
 - He was equipped as a knight, looking for work. Comes to a path in a deserted forest, and follows the road despite their being many obstacles along the way. Only the best and the bravest can get through.
 - He sees a tower a short way ahead of him.
 - Before the tower, there is a moat. He sees a man with a hunting hawk outside the tower, and is offered shelter by the owner of the castle.
   - Lots of discussion of birds in the tales; falcons, hunting birds. The lords practice falconry as a way of conveying their power and wealth. Part of the decor of the book, as part of the culture of the tale.
-- After the man invites Kay in, he sees a beautiful woman. She helps him out of his armor, and gives him a cloak. /imagery: clothing/ (/p.9, ln.230/).
-- In return for his hospitality, the owner of the castle asks him to return, presumably because he wants to marry off his daughter to Kay.
+- After the man invites Calegrenant in, he sees a beautiful woman. She helps him out of his armor, and gives him a cloak. /imagery: clothing/ (/p.9, ln.230/).
+- In return for his hospitality, the owner of the castle asks him to return, presumably because he wants to marry off his daughter to Calegrenant.
+- Stays for the night, collects his horse, blesses the owner and his daughter (in the name of the Christian God). To see how this text signifies, we pay attention to details like recurring themes (religion, culture, clothing, birds, etc).
+- As he left, he came to a clearing with a bunch of wild bulls fighting amongst themselves. He retreated, and saw sitting on a tree-stump, a lowboard creature, black as a Moor, huge, and hideously ugly --Indeed, so incredibly awful, that /there are no words to describe him/.
+  - Chretien then goes on to describe him, for a long time.
+- The creature says that he is a man, but the reader is led to believe that he is evil because he is "black as a Moor" (black as a Muslim).
+- Calegrenant says that he is a knight seeking adventure, and the Moor says that he will tell him about an adventure. He tells him to try going to a certain spring nearby, but says that it will be very difficult and it is easy to get lost and the spring is shaded by /the most beautiful tree nature has ever made/.
+- There is a very odd fountain nearby, and there's a way to activate it but there's a terrible storm.
+  - Scenery is evocative of Welsh mythology.
+- "/Not a word I speak is untrue./"
+- Jousts with other knights there. The opposing knight was a whole head taller than Kay. His horse was stronger than Calegrenant's.
+- "/These are things I need to say, For they help explain my shame./" He lost. He comes back to King Arthur's court and tells this story seven years later.
+** Why did Calegrenant come back and tell this story?
+- *Confession*. Tries to gain control of the situation by expressing it through language.
+
+  
+* The Ending
+#+ATTR_LATEX: :width 200
+[[./the-ending.png]]
