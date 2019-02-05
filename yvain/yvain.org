@@ -45,7 +45,34 @@ By line 5920, he is back to being the wise, just King Arthur.\\
 * Lunete
 Manipulative but practical and sensible; tries to marry off the mourning Laudine to Yvain
 
+* Gawain
+- Jealous of Yvain, as current head of the knights
+- Convinces him to leave his betrothed Laudine and travel
   
+* Yvain
+- Yvain is a threat to Gawain
+- Loses his mind after he loses Laudine
+- A hermit provides for him as he traipses around a forest, and he slowly progresses upward from an uncivilized savage
+- Starts out worse than the man-beast, not with even his mind
+- hermit provided raw meat \rightarrow cooked meat
+- Healed by an ointment provided by Morgan le Fay (Celtic and Christian symbolism)
+- got his civilization back
+- Runs toward danger, back to his knightly duties /(pg. 102)/
+- Saves lion and kills snake, because of Christian symbolism
+    - titular moment, central passage
+- Yvain comes to love the civilized lion
+
+* Lunette
+
 * The Ending
 #+ATTR_LATEX: :width 200
 [[./the-ending.png]]
+
+* Notes
+- [[https://en.wikipedia.org/wiki/Map_of_Tendre][Map of Tenderness]]
+  #+ATTR_LATEX: :width 300px
+  [[./map-of-tenderness.jpg]]
+  - remain in accordance with the "courtly love ethic"
+- It's a woman's place to civilize a man through the courtly love ethic, and "without courtly love, man is like the serpent: an untamed animal"
+- "Hunger is a lovely, well-made sauce for any dish."
+- Morgan le Fay \rightarrow half-sister of King Arthur
