@@ -1,0 +1,14 @@
+#+TITLE: Nibelungenlied
+#+OPTIONS: toc:nil date:nil num:nil author:nil
+#+STARTUP: noindent showall
+#+SUBTITLE: HLI114 -- Western Literature II: Middle Ages to Present
+#+LaTeX_HEADER: \usepackage[margin=1.0in]{geometry}
+#+LaTeX_HEADER: \renewcommand\labelitemi{-}
+#+LaTeX_HEADER: \setlength{\parindent}{0pt}
+
+* Edda
+[[https://en.wikipedia.org/wiki/Edda][Edda]]
+
+* Background
+- Great German epic
+- Dark themes 
