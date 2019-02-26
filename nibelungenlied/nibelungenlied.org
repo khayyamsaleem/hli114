@@ -1,0 +1,86 @@
+#+TITLE: Nibelungenlied
+#+OPTIONS: toc:nil date:nil num:nil author:nil
+#+STARTUP: noindent showall
+#+SUBTITLE: HLI114 -- Western Literature II: Middle Ages to Present
+#+LaTeX_HEADER: \usepackage[margin=1.0in]{geometry}
+#+LaTeX_HEADER: \renewcommand\labelitemi{-}
+#+LaTeX_HEADER: \setlength{\parindent}{0pt}
+
+* Summary of text 
+[[https://www.pitt.edu/~dash/nibelungenlied.html][Summary from pitt.edu]]
+
+* Edda
+[[https://en.wikipedia.org/wiki/Edda][Edda]]
+
+* Caesura 
+- Break in the line 
+- Goes along with the theme of division in the poem
+
+* Background
+- Great German epic
+- Dark themes 
+- Division in lines reflects division in the poem
+- "Joy must ever turn to sorrow at the end."
+
+* Kriemhild
+- The fairest maiden in all the land
+- Caused pain to many knights because of her beauty
+- Lives with mother and two brothers -- all of whom are worthy warriors 
+- Has a dream (p. 18) about her falcon being taken by two eagles
+- The dream will be a parallel for her struggles later on in the poem
+
+* Brunhild
+- Doesn't want to marry Gunther 
+- Gunther forces her hand by outperforming her in three contests with Siegfried's help 
+- Brunhild is suspicious and refuses to give up her viriginity to Gunther after the wedding
+- Siegfried helps Gunther again and she loses her virginity -- and her strength as a result
+
+* Siegfried
+- Handsome prince, civilized, well-dressed, sociable, etc.
+- Lives in a kingdom in the Netherlands
+- Hears of Kriemhild and is promised joy and Siegfried desires her 
+- Sieg's parent disapprove of this marriage since Kriemhild is out of the tribe
+- Is allowed to seek Kriemhild so long as he heeds his father's warning
+- Is not courtly -- he is barbaric and gets what he wants by force 
+- Receives his mother's blessing and requests from her the finest /clothes/
+- Slew a dragon and bathed in its blood, grew invincible with and unknown weakeness
+- Achieves marriage with Kriemhild by aiding Gunther
+- Lacks self-awareness -- helps Gunther needlessly and is always ready to go into conflict
+- Takes Brunhild's ring and girdle when raping her with Gunther 
+    - Remains unknown whether he had sex with Brunhild, but this action
+    signifies the taking of virginity
+
+
+* Hagen
+- Hero of the poem
+- Gunther's vassal
+- Has treue to Gunther 
+- Has travelled and knows of many people
+- Strange knights show up in Gunther's kingdom, Gunther seeks Hagen's help
+
+* Gunther 
+- Cowardly king (in our eyes); "Machiavellian king"
+- Uses Siegfried to fight the Saxons and do all kinds of other tasks
+
+* Norse Mythos vs Christianity
+- Poem is written in Norse point of view
+- Christianity is challenged, and Norse is shown be to stronger
+
+* Clothes 
+- Signify independence and culture
+
+* Women in the poem 
+- Meant to submit to their husbands
+- Brunhild called "haudy" for being bold and independent
+- Brunhild loses her strength after losing her virginity
+
+* Treue 
+- Fidelity
+- Fulfilling obligations in all ways 
+- Men are expected to uphold treue to all they owe to
+
+* Opening 
+- "We are told in old stories  of many wonders 
+    of praiseworthy heroes  of much toil 
+    of joys and celebrations  of weeping and of wailing
+    of bold warriors  of untold heroes?"
