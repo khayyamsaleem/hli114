@@ -1,0 +1,59 @@
+#+TITLE: The Inferno
+#+OPTIONS: toc:nil date:nil num:nil author:nil
+#+STARTUP: noindent showall
+#+SUBTITLE: HLI114 -- Western Literature II: Middle Ages to Present
+#+LaTeX_HEADER: \usepackage[margin=1.0in]{geometry}
+#+LaTeX_HEADER: \renewcommand\labelitemi{-}
+#+LaTeX_HEADER: \setlength{\parindent}{0pt}
+
+*/TEXT/*: 978-0-374-52452; /The Inferno/, Dante, Robert Pinksy
+
+* Dante 
+    - Exiled from Florence 
+    - Don't know much about him 
+    - Family is noble, not very rich 
+    - Began writing poetry
+    - Christian man, mystical thinker
+    - Reveres classical authors, brings Christianity and paganism
+    - Has friend named (Buido?)
+    - Ideal: The church and government live in harmony
+    - Married to a sister of a black leader 
+    - Fought in the army, goes into debt
+    - Becomes active in politics in 1295, opposing the Pope 
+    - 1301: commissioned to supervising widening of streets in Florence 
+        - Accused of taking bribes
+        - Condemned to death by fire, refuses to purchase pardon
+        - Charles comes to take Florence so Dante escapes
+    - Travels Italy after escape, begins writing about politics 
+    - Uses intense emotion and passion throughout the poem; conflicting with other medieval poets 
+
+* About the Poem
+    - Autobiography
+    - Political poem
+    - Dante says, "Every word has to be read in four different ways"
+        - Literal, moral, alllegorical, anagogical
+    - "Use of three"
+    - "The world is a shadowy image of the heavens"
+
+* Italy in 13th Century
+    - Poem takes place in 1300, Dante born in 1265
+    - Lots of conflict
+
+* Florence 
+    - Akin to hell
+    - At the time, independent municipality
+    - Progress in art and literature
+    - Party strife, family feuds, etc. (see Romeo and Juliet)
+    - Dante hates the Pope
+        - All about money, not being holy
+        - Does wrong by Florence
+    - White people drawn out of Florence
+
+* Pilgrim
+    - Takes journey to Hell to see appreciate heights of Christianity
+
+* Beatrice 
+    - Important figure, could have been real in Dante's life 
+    - "Met when they were 9, spoke twice."
+    - Dante uses courtly love devices used to descibe her 
+
