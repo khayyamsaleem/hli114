@@ -1,0 +1,17 @@
+#+TITLE: Dante's Inferno -- Canto XXXI
+#+SUBTITLE: Summary
+#+OPTIONS: toc:nil num:nil
+#+LaTeX_HEADER: \documentclass[12pt]{article}
+#+LaTeX_HEADER: \usepackage[letterpaper]{geometry}
+#+LATEX_HEADER: \usepackage{times}
+#+LATEX_HEADER: \geometry{top=1.0in, bottom=1.0in, left=1.0in, right=1.0in}
+#+LATEX_HEADER: \usepackage{setspace}
+#+LATEX_HEADER: \doublespacing
+
+The 31^{st} /canto/ opens after Dante and Virgil have recently resolved conflict and reaffirmed the strength of their relationship. It begins with Dante offering a comparison of Virgil's tongue to Achilles' lance: as much as it has the power to hurt, it has an equal amount of power to heal. They journey toward the final circle, but it is too dark for them to see anything around them. Virgil and Dante are forced to resort to using their hearing to navigate, and are startled by a large bugle blast. After the horn is sounded, Dante can start to regain his vision, and sees what he believes to be a city skyline off in the distance. Virgil corrects him and explains that they are giants, tasked with guarding the final circle.
+
+The poets greet the giants: Nimrod, Ephialtes, and Antaeus. Nimrod is introduced as the builder of the Christian Tower of Babel. God smote the tower down and rendered Nimrod unintelligible and unable to interpret anyone else. Thus, Nimrod can offer the poets nothing, and they move forward. Next, they meet Ephialtes, condemned for challenging the gods. His punishment was that his arms would be forever chained, immobilized. Hence, Ephialtes can also do them no good. Virgil takes Dante forward to Antaeus, a particularly vicious giant in that he ate lions and could have defeated the gods in the war that Ephialtes started, had he been around. Virgil makes a plea for Antaeus to carefully drop him and Dante into the final circle, and praises him as well. Flattered and content, Antaeus drops a fearful Virgil and Dante into the final layer.
+
+-----------
+
+/I pledge my honor that I have abided by the Stevens Honor System./
