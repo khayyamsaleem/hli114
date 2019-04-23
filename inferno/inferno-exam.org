@@ -1,0 +1,42 @@
+#+STARTUP: noindent showall
+#+TITLE: Themes in Dante's Inferno
+#+SUBTITLE: HLI 114 Exam #2 Prep
+#+OPTIONS: toc:nil num:nil
+#+LaTeX_HEADER: \documentclass[12pt]{article}
+#+LaTeX_HEADER: \usepackage[letterpaper]{geometry}
+#+LATEX_HEADER: \usepackage{times}
+#+LATEX_HEADER: \geometry{top=1.0in, bottom=1.0in, left=1.0in, right=1.0in}
+#+LATEX_HEADER: \usepackage{parskip}
+#+LATEX_HEADER: \setlength{\parindent}{0cm}
+#+LATEX_HEADER: \usepackage{fancyhdr}
+#+LATEX_HEADER: \pagestyle{fancyplain}
+#+LATEX_HEADER: \usepackage{nopageno}
+#+LATEX_HEADER: \renewcommand{\headrulewidth}{0pt}
+#+LATEX_HEADER: \renewcommand{\footrulewidth}{0pt}
+#+LATEX_HEADER: \setlength\headsep{0.333in}
+
+
+* Quotes
+--------
+#+BEGIN_VERSE
+/Midway on our life's journey, I found myself/
+/In dark woods, the right road lost./
+#+END_VERSE
+Dante's physical plight mirrors his moral uncertainty about whether or not he has followed the right moral path in life. It sets up his allegorical tale of finding one's way in life in keeping with a moral code.
+--------
+#+BEGIN_VERSE
+/To get back up to the shining world from there/
+/My guide and I went into that hidden tunnel/
+/.../
+/Where we came forth, and once more saw the stars./
+#+END_VERSE
+This concludes the poem, when Dante and Virgil climb out of the underworld and return to the surface of the Earth. He aspires to reach the stars (heaven). This is a symbol of hope for the completion of his journey and the realization of who he is and what his moral code says about himself.
+-------
+
+* Themes
+** Justice & Morality
+In each circle of Hell, we are able to see a different punishment for different sins. In most cases, the punishments are ironic in that they are comparable to the severity of the crime. For example, in Canto XXXI, the giant Ephialtes has his arms chained to his body, a punishment for taking up arms against the Gods.  As he traverses through the circles, we see that Dante begins to get a clearer understanding of justice, and even expresses some of his own opinions about whether or not these punishments are just. 
+** Language
+** Reputation
+** Pagan Religion vs Christian Religion
+** Comparison between Real World and the Infero
