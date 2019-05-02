@@ -34,7 +34,7 @@ HLI 114 -- Western Literature: Middle Ages to the Present
 
 
 #+BEGIN_CENTER
-Dante's Superiority Complex in /The Inferno/
+Hubris in /The Inferno/
 #+END_CENTER
 
 
@@ -46,26 +46,30 @@ Dante's Superiority Complex in /The Inferno/
 start paper here
 #+END_COMMENT
 
-In Dante Alighieri's /The Inferno of Dante/, we are able to see Dante's development as he descends through the layers of the underworld.
+In Dante Alighieri's /The Inferno of Dante/, we are able to see Dante's development as he descends through the layers of the underworld with his companion, Virgil. In the beginning, the reader is dropped into a scene where Dante is fleeing a beast; feeling vulnerable. However, as the story progresses, and Dante meets characters in the different circles of hell, we can see him begin to pass judgment on their situations. While Dante is the protagonist of the poem, his character is realized through his transformation in the Underworld. He transformed from a lost soul to a confident, even /pompous/, judge. This hubris manifests itself in many ways throughout Dante's journey through the Inferno.
+
+We can identify one instance of Dante's hubris early on in the poem. In Canto IV, Dante counts himself as one among the ranks of famous poets in history, such as Ovid and Homer when he meets them in Limbo. While he holds each of these poets in very high regard, we can observe that he considers himself one of them. Dante says: "Onward toward the light I made a sixth Amid such store of wisdom." This is the first step towards a superiority complex that he grows as he descends in the Inferno. This is also bolstered by events such as their meeting with Charon the ferryman, who gives Dante the proof he needs to know that he is not damned.
+
+Though Dante himself is clearly capable of sin, he still places himself on a moral pedestal. When it comes to his enemies, he wishes harm and violence upon them, and Virgil eggs him on. In Virgil's perspective, Dante is just learning about the necessity of putting sinners in their place. However, for Dante, he is just wishing ill upon them for his personal grievances. In this scenario, Dante is less the judge, and more the executioner. In Canto VIII, we see this sentiment when Dante says: "In weeping And sorrow remain, cursed soul -- for I have seen Through all that filth: I know you!"
+
+In each circle of Hell, we are able to see a different punishment for different sins. In most cases, the punishments are ironic in that they are comparable to the severity of the crime. For example, in Canto XXXI, the giant Ephialtes has his arms chained to his body, a punishment for taking up arms against the Gods. As he traverses through the circles, we see that Dante begins to get a clearer understanding of justice, and even expresses some of his own opinions about whether or not these punishments are just. The deeper that he proceeds into Hell, the less he is affected by the punishments to those that have sinned.
+
+Thus, we can definitively declare that by the end of his journey through the Inferno, Dante's forgiving viewpoint has also vanished. The same man that fainted out of pity for the lost souls he saw in the first few Cantos has now shown a side that demonstrates no mercy. Now, Dante is meant to allegorically represent man himself, so we may not exclude him from the same lenience that we offer ourselves in our faults; he is only human. As such, he is expected to demonstrate hubris and being holier-than-thou. What sets Dante apart is that though he does have a superiority complex like others that have been damned to Hell, he is still God-fearing. Dante's hubris never reaches the extent of challenging or doubting the deity that put all those souls in Hell. However, demonstrated by his self-aggrandizing nature, ruthless attitude toward his enemies, and passings of judgment on the sinners in the later Cantos, we are left with no doubt that our protagonist is not perfect.
+
 
 
 #+BEGIN_COMMENT
 end paper here
 #+END_COMMENT
 
+#+BEGIN_COMMENT
 
 #+BEGIN_LATEX
 \begin{workscited}
 
 \bibent
-Allen, R.L. \textit{The American Farm Book; or Compend of Ameri can Agriculture; Being a Practical Treatise on Soils, Manures, Draining, Irrigation, Grasses, Grain, Roots, Fruits, Cotton, Tobacco, Sugar Cane, Rice, and Every Staple Product of the United States with the Best Methods of Planting, Cultivating, and Prep aration for Market.} New York: Saxton, 1849. Print.
-
-\bibent
-Baker, Gladys L., Wayne D. Rasmussen, Vivian Wiser, and Jane M. Porter. \textit{Century of Service: The First 100 Years of the United States Department of Agriculture.}[Federal Government], 1996. Print.
-
-\bibent
-Danhof, Clarence H. \textit{Change in Agriculture: The Northern United States, 1820-1870.} Cambridge: Harvard UP, 1969. Print.
-
 
 \end{workscited}
 #+END_LATEX
+
+#+END_COMMENT
